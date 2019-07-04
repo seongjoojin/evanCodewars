@@ -48,3 +48,19 @@ Assertion messages may be unclear about what they display in some languages. If 
 ### best pratice
 
 https://www.codewars.com/kata/reviews/54dd632b04bd8bc1a2000014/groups/54f593dbabe2403022000195
+
+## test4
+
+```
+Write a function that accepts an array of 10 integers (between 0 and 9), that returns a string of those numbers in the form of a phone number.
+
+Example:
+
+createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]) // => returns "(123) 456-7890"
+The returned format must be correct in order to complete this challenge. 
+Don't forget the space after the closing parenthesis!
+```
+
+### best pratice
+
+https://www.codewars.com/kata/reviews/525f50e3b73515a6db000b86/groups/52604f129a002281d900124b
