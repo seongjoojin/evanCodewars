@@ -64,3 +64,35 @@ Don't forget the space after the closing parenthesis!
 ### best pratice
 
 https://www.codewars.com/kata/reviews/525f50e3b73515a6db000b86/groups/52604f129a002281d900124b
+
+## test5
+
+```
+However, sometimes, you can't arrange them into a square. Instead, you end up with an ordinary rectangle! Those blasted things! If you just had a way to know, whether you're currently working in vain… Wait! That's it! You just have to check if your number of building blocks is a perfect square.
+
+Task
+
+Given an integral number, determine if it's a square number:
+
+In mathematics, a square number or perfect square is an integer that is the square of an integer; in other words, it is the product of some integer with itself.
+The tests will always use some integral number, so don't worry about that in dynamic typed languages.
+
+Examples
+
+is_square (-1) # => false
+is_square   0 # => true
+is_square   3 # => false
+is_square   4 # => true
+is_square  25 # => true
+is_square  26 # => false
+isSquare(-1) returns  false
+isSquare(0) returns   true
+isSquare(3) returns   false
+isSquare(4) returns   true
+isSquare(25) returns  true  
+isSquare(26) returns  false
+```
+
+### best pratice
+
+https://www.codewars.com/kata/reviews/54c27d56111ec18e6c0003c1/groups/54c2964e6fd2900c30001701
