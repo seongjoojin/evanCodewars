@@ -26,3 +26,7 @@ https://www.codewars.com/kata/reviews/54c27d56111ec18e6c0003c1/groups/54c2964e6f
 ## day6 digPow best pratice
 
 https://www.codewars.com/kata/reviews/5552cffe7abf6e77eb000041/groups/55eee34801baf0278f000037
+
+## day7 digitalRoot best pratice
+
+https://www.codewars.com/kata/reviews/541c8b5e7e4b4c61e2000149/groups/541df7aa259d9c7b80000a88
