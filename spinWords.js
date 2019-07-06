@@ -1,3 +1,11 @@
+function main() {
+  const sample1 = "Hey fellow warriors";
+  const sample2 = "This is a test";
+  const sample3 = "This is another test";
+  const result = spinWords(sample1);
+  console.log(result);
+}
+
 /*
 1. 문자열에서 어떻게 공백을 뺄 수 있을까 찾다가 split로 string을 array로 변경할 수 있음을 발견함 (https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 2. 문자 반전부터 생각이 안 나서 찾아보다가 join을 찾게됨 (https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
@@ -18,3 +26,5 @@ function reverseString(str) {
     )
     return resultArray.join(" ")
   }
+
+  main()

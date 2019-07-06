@@ -1,3 +1,12 @@
+function main() {
+  const sample1 = "din";
+  const sample2 = "recede";
+  const sample3 = "Success";
+  const sample4 = "(( @";
+  const result = duplicateEncode(sample1);
+  console.log(result);
+}
+
 /*
 1. 먼저 주어진 문자열을 소문자로 다 변환한 후 한 문자씩 짤라서 배열로 저장
 2. 배열의 length만큼 "("로 채워주는 배열을 만듬
@@ -24,3 +33,5 @@ function duplicateEncode(word){
     })
     return fillArray.join('')
 }
+
+main()

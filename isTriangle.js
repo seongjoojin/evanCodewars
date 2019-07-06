@@ -1,3 +1,11 @@
+function main() {
+  const sampleA1 = 2;
+  const sampleA2 = 3;
+  const sampleA3 = 4;
+  const result = isTriangle(sampleA1, sampleA2, sampleA3);
+  console.log(result);
+}
+
 /*
 1. 삼각형 조건 찾기
 2. 제일 긴 변의 길이가 다른 두 변 길이를 합친 것 보다 작아야 삼각형
@@ -8,3 +16,5 @@ function isTriangle(a,b,c)
 {
   return a < b + c && b < a + c && c < a + b ? true : false;
 }
+
+main()
