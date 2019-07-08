@@ -30,3 +30,7 @@ https://www.codewars.com/kata/reviews/5552cffe7abf6e77eb000041/groups/55eee34801
 ## day7 digitalRoot best pratice
 
 https://www.codewars.com/kata/reviews/541c8b5e7e4b4c61e2000149/groups/541df7aa259d9c7b80000a88
+
+## day8 comp best pratice
+
+https://www.codewars.com/kata/reviews/5556c27101231dd24f00031a/groups/55aeb4b5075d3039950000ec
