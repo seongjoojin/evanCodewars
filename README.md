@@ -38,3 +38,7 @@ https://www.codewars.com/kata/reviews/5556c27101231dd24f00031a/groups/55aeb4b507
 ## day9 Roman Numerals Encoder best pratice
 
 https://www.codewars.com/kata/reviews/51b62bf7a9c58071c6000020/groups/53870848ee24bf0206001047
+
+## day10 findMissingLetter best pratice
+
+https://www.codewars.com/kata/reviews/583a0b20cd2acc1d9900007e/groups/583d57693f02f43fa40002ad
