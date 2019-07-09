@@ -34,3 +34,7 @@ https://www.codewars.com/kata/reviews/541c8b5e7e4b4c61e2000149/groups/541df7aa25
 ## day8 comp best pratice
 
 https://www.codewars.com/kata/reviews/5556c27101231dd24f00031a/groups/55aeb4b5075d3039950000ec
+
+## day9 Roman Numerals Encoder best pratice
+
+https://www.codewars.com/kata/reviews/51b62bf7a9c58071c6000020/groups/53870848ee24bf0206001047
