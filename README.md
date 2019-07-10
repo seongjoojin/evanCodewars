@@ -42,3 +42,7 @@ https://www.codewars.com/kata/reviews/51b62bf7a9c58071c6000020/groups/53870848ee
 ## day10 findMissingLetter best pratice
 
 https://www.codewars.com/kata/reviews/583a0b20cd2acc1d9900007e/groups/583d57693f02f43fa40002ad
+
+## day11 tripledouble best pratice
+
+https://www.codewars.com/kata/reviews/55d5444aa2cb6fae7600015b/groups/55d5c8b7c4a3e6c520000123
