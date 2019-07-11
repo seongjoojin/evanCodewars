@@ -46,3 +46,7 @@ https://www.codewars.com/kata/reviews/583a0b20cd2acc1d9900007e/groups/583d57693f
 ## day11 tripledouble best pratice
 
 https://www.codewars.com/kata/reviews/55d5444aa2cb6fae7600015b/groups/55d5c8b7c4a3e6c520000123
+
+## day12 expandedForm best pratice
+
+https://www.codewars.com/kata/reviews/584647291c5693d6430002b6/groups/586445b24e2b977563000792
