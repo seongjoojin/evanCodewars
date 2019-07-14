@@ -54,3 +54,5 @@ https://www.codewars.com/kata/reviews/584647291c5693d6430002b6/groups/586445b24e
 ## day13 Best travel best pratice
 
 https://www.codewars.com/kata/reviews/58f5d29b2bf7a998b4000076/groups/58f65018cdee705f02000085
+
+## day14 Maximum subarray sum best pratice
