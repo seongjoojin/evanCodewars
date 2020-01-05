@@ -1,5 +1,7 @@
 # evanCodewars
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/seongjoojin/evanCodewars.svg)](https://greenkeeper.io/)
+
 just go
 
 ## day1 spinWords best practice
